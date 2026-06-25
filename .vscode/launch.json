@@ -1,0 +1,75 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ExamplesMain",
+      "mainClass": "com.teamgehem.kyo_test.ExamplesMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "IronTokyoCombinedMain",
+      "mainClass": "com.teamgehem.kyo_test.IronTokyoCombinedMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "LaterExampleMain",
+      "mainClass": "com.teamgehem.kyo_test.LaterExampleMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "TokyoPracticalExampleMain",
+      "mainClass": "com.teamgehem.kyo_test.TokyoPracticalExampleMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "PracticalExampleMain",
+      "mainClass": "com.teamgehem.kyo_test.PracticalExampleMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "KyoDirectNowLaterExampleMain",
+      "mainClass": "com.teamgehem.kyo_test.KyoDirectNowLaterExampleMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    },
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "TokyoUserRegistrationExampleMain",
+      "mainClass": "com.teamgehem.kyo_test.TokyoUserRegistrationExampleMain",
+      "buildTarget": "file:/home/darren/project-scala/kyo_test/#kyo_test/Compile",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

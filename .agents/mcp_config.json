@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "metals-mcp": {
+      "command": "metals-mcp",
+      "args": [
+        "--workspace",
+        ".",
+        "--transport",
+        "stdio"
+      ]
+    }
+  }
+}
